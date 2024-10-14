@@ -3,5 +3,6 @@
     public class Class1
     {
         int dhjdh;
+        string user;
     }
 }
